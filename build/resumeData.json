@@ -1,0 +1,170 @@
+{
+  "main":{
+      "imagebaseurl":"https://Saxena224pawan.github.io/",
+      "name": "Pawan Saxena",
+      "description":"Python || Machine Learning || Data Science || Deep Learning",
+      "role": "Technical Content Engineer & Data Scientist",
+      "bio":"I am currently employed as a Technical Content Engineer at GeeksforGeeks where my day to day to job includes writing and reviewing articles related to Machine Learning Artificial Intelligence. ",
+      "resumeDownload": "https://drive.google.com/file/d/12jM47qBlzH7zB_m7VLeufOhp81bivH-i/view?usp=sharing",
+      "image":"pawan.jpg",
+      "email": "saxenapawan224@gmail.com",
+      "phone": "(+91)-8171905563",  
+      "address":{
+        "street": "GeeksForGeeks",
+        "city": "Noida",
+        "zip":"201301",
+        "State": "U.P."
+      },
+      "website":"https://Saxena224pawan.github.io",
+      "social":[
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/saxenapawan224/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"github",
+            "url":"http://github.com/Saxena224pawan",
+            "className":"fa fa-github"
+          },
+          {
+            "name":"twitter",
+            "url":"https://twitter.com/PawanSa68367970",
+            "className":"fa fa-twitter"
+          },
+           {
+            "name":"skype",
+            "url":"http://skype.com/saxenapawan224",
+            "className":"fa fa-skype"
+          }
+        ]
+  },
+  "resume":{
+      "education":[
+        {
+          "school":"Bennett University",
+          "degree":"Computer Science & Engineering",
+          "graduated":"Jun 2020",
+          "ach":"CGPA :9.28"
+        }
+      ],
+      "work":[
+        {
+          "company":"GeeksForGeeks",
+          "title":"Technical Content Engineer",
+          "years":"Jan 2020 - Present",
+          "description":"Write about 50 articles on topics related to artificial Intelligence, Deep Learning like many new state-of-the-art methods like R-CNN, YOLO, BERT, DeepFace etc.Link to the articles:https://auth.geeksforgeeks.org/user/pawangfg/articles"
+  
+        },
+        {
+          "company":"Central Board of Secondary Education",
+          "title":"Data Analyst Intern",
+          "years":"May 2019 - July 2019",
+          "description":"Developed an application in Python that analyze the dataset provided by user, show statistical metrics, and visualize different charts (particularly for analyzing CBSE dataset)."
+        }
+      ],
+      "skillsDescription":"Your skills here",
+      "skills":[
+        {
+          "name":"Python",
+          "level":"70%"
+        },
+        {
+          "name":"Java ",
+          "level":"60%"
+        },
+        {
+          "name":"Machine Learning",
+          "level":"80%"
+        },
+        {
+          "name":"Deep Learning",
+          "level":"80%"
+        },
+        {
+          "name":"NumPy/ Pandas",
+          "level":"70%"
+        },
+        {
+          "name":"Keras/ TensorFlow",
+          "level":"70%"
+        },
+        {
+          "name":"HTML5",
+          "level":"70%"
+        },
+        {
+          "name":"CSS3",
+          "level":"50%"
+        },
+        {
+          "name":"React JS",
+          "level":"50%"
+        }
+           ]
+      },
+      "portfolio":{
+       "projects": [
+        { 
+          "id" :1,
+          "title":"G-20 Stats",
+          "category":"A shiny dashboard for analyzing socio-economic factors",
+          "image":"g20stats.png",
+          "url":"https://pawan-saxena.shinyapps.io/G20Stats/"
+  
+        },
+        {  
+          "id" :2,
+          "title":"Mask R-CNN Flask",
+          "category":"A web app to recognize objects in image using Mask R-CNN",
+          "image":"maskrcnn.png",
+          "url":"https://github.com/Saxena224pawan/Mask-RCNN_flask"
+        },
+        {
+          "id" :3,
+          "title":"Frame-wise Face Recognition System",
+          "category":"A web app to recognize objects in image using Mask R-CNN",
+          "image":"face recognition.png",
+          "url":"https://github.com/Saxena224pawan/FrameWiseFaceRecognition"
+        },
+        {   "id":4,
+          "title":"Action Recognition System",
+          "category":"Action Recognition System Using OpenPose and DeepSort",
+          "image":"actionrecogniton.png",
+          "url":"https://github.com/Saxena224pawan/action_recognition"
+        },
+        {   "id":5,
+          "title":"Robo Directory",
+          "category":"A web app that stores details of imaginary Robots. The App uses React and REST API",
+          "image":"robodirectory.png",
+          "url":"https://Saxena224pawan.github.io/robo_directory"
+        }
+
+      ],
+      "articles":[
+        {
+          "id" :1,
+          "title":"Fast R-CNN",
+          "category":"Fast R-CNN Objet detection model",
+          "image":"fast-RCNN.png",
+          "url":"https://www.geeksforgeeks.org/fast-r-cnn-ml/"
+  
+        },
+        {
+          "id" :2,
+          "title":"OpenPose",
+          "category":"OpenPose Pose Estimation",
+          "image":"openpose.png",
+          "url":"https://www.geeksforgeeks.org/openpose-human-pose-estimation-method/"
+  
+        },
+        {
+          "id" :3,
+          "title":"YOLO:",
+          "category":"YOLO Object Detection",
+          "image":"yolo.png",
+          "url":"https://www.geeksforgeeks.org/yolo-you-only-look-once-real-time-object-detection/"
+  
+        }
+      ]
+  }}

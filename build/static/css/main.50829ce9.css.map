@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACI,aAAe,CAGjB,OACE,aAAe","file":"static/css/main.50829ce9.css","sourcesContent":[".success {\r\n    color: #0ff40f;\r\n  }\r\n  \r\n  .error {\r\n    color: #960303;\r\n  }\r\n  \n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
