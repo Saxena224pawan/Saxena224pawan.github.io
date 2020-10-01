@@ -109,7 +109,7 @@
           "id" :1,
           "title":"G-20 Stats",
           "category":"A shiny dashboard for analyzing socio-economic factors",
-          "image":"g20stats.png",
+          "image":"g20stats.PNG",
           "url":"https://pawan-saxena.shinyapps.io/G20Stats/"
   
         },
@@ -124,19 +124,19 @@
           "id" :3,
           "title":"Frame-wise Face Recognition System",
           "category":"A web app to recognize objects in image using Mask R-CNN",
-          "image":"face recognition.png",
+          "image":"facerecognition.PNG",
           "url":"https://github.com/Saxena224pawan/FrameWiseFaceRecognition"
         },
         {   "id":4,
           "title":"Action Recognition System",
           "category":"Action Recognition System Using OpenPose and DeepSort",
-          "image":"actionrecogniton.png",
+          "image":"actionrecogniton.PNG",
           "url":"https://github.com/Saxena224pawan/action_recognition"
         },
         {   "id":5,
           "title":"Robo Directory",
           "category":"A web app that stores details of imaginary Robots. The App uses React and REST API",
-          "image":"robodirectory.png",
+          "image":"robodirectory.PNG",
           "url":"https://Saxena224pawan.github.io/robo_directory"
         }
 
@@ -162,7 +162,7 @@
           "id" :3,
           "title":"YOLO:",
           "category":"YOLO Object Detection",
-          "image":"yolo.png",
+          "image":"yolo.PNG",
           "url":"https://www.geeksforgeeks.org/yolo-you-only-look-once-real-time-object-detection/"
   
         }
