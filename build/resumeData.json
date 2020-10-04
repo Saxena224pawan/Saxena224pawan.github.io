@@ -178,7 +178,7 @@
           "id" :4,
           "title":"Face Recognition Using PCA",
           "category":"Face Recognition Using Principal Componenet Analysis",
-          "image":"face_rec.PNG",
+          "image":"face_rec.png",
           "url":"https://www.geeksforgeeks.org/yolo-you-only-look-once-real-time-object-detection/"
         },
         {
@@ -192,7 +192,7 @@
           "id" :6,
           "title":"Self-attention mechanism",
           "category":"Self-attention mechanism in NLP",
-          "image":"attention.PNG",
+          "image":"attention.png",
           "url":"https://www.geeksforgeeks.org/self-attention-in-nlp/"
         }
       ]
