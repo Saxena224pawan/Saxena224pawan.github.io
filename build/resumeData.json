@@ -5,7 +5,7 @@
       "description":"Python || Machine Learning || Data Science || Deep Learning",
       "role": "Technical Content Engineer & Data Scientist",
       "bio":"I am currently employed as a Technical Content Engineer at GeeksforGeeks where my day to day to job includes writing and reviewing articles related to Machine Learning Artificial Intelligence. ",
-      "resumeDownload": "https://drive.google.com/file/d/12jM47qBlzH7zB_m7VLeufOhp81bivH-i/view?usp=sharing",
+      "resumeDownload": "https://drive.google.com/file/d/1aL26hv4DGfMMO9xHTdOzL6Wu7iWctjbk/view?usp=sharing",
       "image":"pawan.jpg",
       "email": "saxenapawan224@gmail.com",
       "phone": "(+91)-8171905563",  
@@ -143,6 +143,14 @@
       ],
       "articles":[
         {
+          "id" :0,
+          "title":"ResNet",
+          "category":"ResNet CNN model",
+          "image":"resnet.png",
+          "url":"https://www.geeksforgeeks.org/residual-networks-resnet-deep-learning/"
+  
+        },  
+      {
           "id" :1,
           "title":"Fast R-CNN",
           "category":"Fast R-CNN Objet detection model",
@@ -165,6 +173,27 @@
           "image":"yolo.PNG",
           "url":"https://www.geeksforgeeks.org/yolo-you-only-look-once-real-time-object-detection/"
   
+        },
+        {
+          "id" :4,
+          "title":"Face Recognition Using PCA",
+          "category":"Face Recognition Using Principal Componenet Analysis",
+          "image":"face_rec.PNG",
+          "url":"https://www.geeksforgeeks.org/yolo-you-only-look-once-real-time-object-detection/"
+        },
+        {
+          "id" :5,
+          "title":"Variational Autoencoders",
+          "category":"Variational Autoencoders (Deep Learning Model)",
+          "image":"var_auto.jpg",
+          "url":"https://www.geeksforgeeks.org/variational-autoencoders/"
+        },
+        {
+          "id" :6,
+          "title":"Self-attention mechanism",
+          "category":"Self-attention mechanism in NLP",
+          "image":"attention.PNG",
+          "url":"https://www.geeksforgeeks.org/self-attention-in-nlp/"
         }
       ]
   }}
