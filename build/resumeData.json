@@ -1,18 +1,18 @@
-{
+ {
   "main":{
       "imagebaseurl":"https://Saxena224pawan.github.io/",
       "name": "Pawan Saxena",
       "description":"Python || Machine Learning || Data Science || Deep Learning",
-      "role": "Technical Content Engineer & Data Scientist",
-      "bio":"I am currently employed as a Technical Content Engineer at GeeksforGeeks where my day to day to job includes writing and reviewing articles related to Machine Learning Artificial Intelligence. ",
-      "resumeDownload": "https://drive.google.com/file/d/1aL26hv4DGfMMO9xHTdOzL6Wu7iWctjbk/view?usp=sharing",
+      "role": "Senior Analyst - Data Scientist",
+      "bio":"I am currently employed as a Senior Analyst at Tiger Analyst where my day to day to job includes applying dfferent data science techniques to industrial project. ",
+      "resumeDownload": "https://drive.google.com/file/d/1y567btiLwY_WzkcOYyFuuTLC5unOHWIX/view?usp=sharing",
       "image":"pawan.jpg",
       "email": "saxenapawan224@gmail.com",
       "phone": "(+91)-8171905563",  
       "address":{
-        "street": "GeeksForGeeks",
-        "city": "Noida",
-        "zip":"201301",
+        "street": "",
+        "city": "Etawah",
+        "zip":"206001",
         "State": "U.P."
       },
       "website":"https://Saxena224pawan.github.io",
@@ -50,10 +50,17 @@
       ],
       "work":[
         {
+          "company":"Tiger Analytics",
+          "title":"Senior Analyst",
+          "years":"Sep 2021 - Present",
+          "description":"Currently working in a team to apply different data science steps to a industrial project"
+  
+        },
+        {
           "company":"GeeksForGeeks",
           "title":"Technical Content Engineer",
-          "years":"Jan 2020 - Present",
-          "description":"Write about 50 articles on topics related to artificial Intelligence, Deep Learning like many new state-of-the-art methods like R-CNN, YOLO, BERT, DeepFace etc.Link to the articles:https://auth.geeksforgeeks.org/user/pawangfg/articles"
+          "years":"Jan 2020 - Sep 2021",
+          "description":"Write about 50 articles on topics related to artificial Intelligence, Deep Learning like many new state-of-the-art methods like R-CNN, YOLO, BERT, DeepFace etc.\n Link: https://auth.geeksforgeeks.org/user/pawangfg/articles"
   
         },
         {
@@ -63,7 +70,7 @@
           "description":"Developed an application in Python that analyze the dataset provided by user, show statistical metrics, and visualize different charts (particularly for analyzing CBSE dataset)."
         }
       ],
-      "skillsDescription":"Your skills here",
+      "skillsDescription":"My skills here",
       "skills":[
         {
           "name":"Python",
@@ -194,6 +201,69 @@
           "category":"Self-attention mechanism in NLP",
           "image":"attention.png",
           "url":"https://www.geeksforgeeks.org/self-attention-in-nlp/"
+        }
+      ],
+      "certificates":[
+        {
+          "id" :0,
+          "title":"Google Data Analytics",
+          "category":"Data Analysis",
+          "image":"coursera.png",
+          "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/MNFBL3NXK786"
+  
+        },  
+      {
+          "id" :1,
+          "title":"IBM AI Engineering",
+          "category":"Artificial Intelligence",
+          "image":"coursera.png",
+          "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/8JL7Y2KCZSVD"
+  
+        },
+        {
+          "id" :2,
+          "title":"Practial Data Science",
+          "category":"Data Science",
+          "image":"coursera.png",
+          "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/X8PAM4TY9WN7"
+  
+        },
+        {
+          "id" :3,
+          "title":"Machine Learning Engineering For Productions (MLOps)",
+          "category":"MLOps",
+          "image":"coursera.png",
+          "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/ZRA9535XX9V6"
+  
+        },
+        {
+          "id" :4,
+          "title":"DeepLearning.AI TensorFlow Developer",
+          "category":"TF developer",
+          "image":"coursera.png",
+          "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/9YX2VXJG43RY"
+        },
+        {
+          "id" :5,
+          "title":"DAT213x: Analyzing Big Data with Microsoft R",
+          "category":"DAT213x",
+          "image":"edx.png",
+          "url":"https://courses.edx.org/certificates/9251ffe06e56441e99e10aa63fa44a67"
+        },
+        {
+          "id" :6,
+          "title":"The Complete 2020 Web Development Bootcamp",
+          "category":"Web Develoment",
+          "image":"udemy.png",
+          "url":"https://www.udemy.com/certificate/UC-d11584fd-8e72-4d7a-a60f-c044a5946279/"
+        },
+        
+        {
+          "id" :7,
+          "title":"Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)",
+          "category":"React App Develoment",
+          "image":"udemy.png",
+          "url":"https://www.udemy.com/certificate/UC-933e6b5f-f837-4e4d-b6e0-3ca9133fdf03/"
         }
       ]
   }}
