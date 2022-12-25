@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "pawan",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
